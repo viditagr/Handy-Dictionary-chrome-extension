@@ -1,0 +1,18 @@
+p {
+font-family: 'Roboto', serif;
+}
+button{
+  background-color: inherit;
+  border-radius: 10px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+}
+button:hover{
+  outline-color: transparent;
+  outline-style:solid;
+  box-shadow: 0 0 0 1px black;
+}
+button:active{
+  box-shadow: -2px -2px 2px black;
+}
